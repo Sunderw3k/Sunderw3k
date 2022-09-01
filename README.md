@@ -1,16 +1,21 @@
-### Hi there 👋
+## About me
 
-<!--
-**Sunderw3k/Sunderw3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello. Basically everything about me is im my bio but if you cba to read it I code in
+<ul>
+  <li>
+    Java
+  </li>
+  <li>
+    Python
+  </li>
+  <li>
+    A lil bit of node and C-languages
+  </li>
+</ul>
 
-Here are some ideas to get you started:
+I mostly focus on making utility projects and really enjoy having the whole project organized
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunderw3k&show_icons=true&count_private=true&theme=great-gatsby)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunderw3k&layout=compact&theme=great-gatsby)
